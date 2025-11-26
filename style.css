@@ -1,0 +1,648 @@
+body{
+  background-color:#4b4743;
+   width: 1000PX;
+  height: min-content;
+  position: absolute;
+}
+.conteneur{
+    background-color: blue;
+    width: 1250px;
+    height: 240px;
+    position: absolute;
+    margin-left:-8px;
+    margin-top: -8px;
+}
+.photo{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    background-image:url("image/PHOTO3.jpg");
+}
+.nom{
+    margin-top: -200px;
+    margin-left: 350px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rejout{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 350px;
+    margin-top: 30px;
+
+}
+.conteneur2{
+    background-color:  rgb(58, 151, 239);
+    width: 650px;
+    height: 1100px;
+    margin-left:-8px;
+    margin-top: 100px;
+}
+.remplissage{
+    font-size:30px ;
+    margin-top: 230px;
+    margin-left:100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ligne1{
+    height: 4px;
+    width: 500px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 100px;
+}
+.INFO1{
+    font-size: 30PX;
+    margin-top: 10PX;
+    margin-left: 50px;
+}
+.remplissage2{
+    font-size:30px ;
+    margin-top: 50px;
+    margin-left:100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ligne2{
+     height: 4px;
+    width: 500px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 100px;
+}
+.INFO2{
+     font-size: 30PX;
+    margin-top: 10PX;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.language{
+     font-size:30px ;
+    margin-top: 50px;
+    margin-left:100px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.surlignage{
+    height: 4px;
+    width: 500px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 100px;
+
+}
+.langue{
+    font-size: 30PX;
+    margin-top: 10PX;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.surlignage1{
+    height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: -45px;
+}
+.surlignage2{
+     height: 4px;
+    width: 110px;
+    background-color: white;
+    margin-left: 290px;
+    margin-top: -20px;
+}
+.surlignage3{
+      height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: -45px;
+
+}
+.surlignage4{
+    height: 4px;
+    width: 170px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -20px;
+
+}
+.surlignage5{
+    height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: -45px;
+
+}
+.surlignage6{
+      height: 4px;
+    width: 120px;
+    background-color: white;
+    margin-left: 280px;
+    margin-top: -20px;
+}
+.remplissage3{
+      font-size:30px ;
+    margin-top: 50px;
+    margin-left:100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ligne3{
+     height: 4px;
+    width: 500px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 100px
+}
+.INFO3{
+      font-size: 30PX;
+    margin-top: 10PX;
+    margin-left: 100px;
+}
+.conteneur3{
+    background-color:white;
+    width: 600px;
+    height: 1100px;
+    margin-left:642px;
+    margin-top: -1150px;
+}
+.FORME{
+    font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+     margin-top: 50px;
+     margin-left: 30px;
+}
+.ligne4{
+    height: 4px;
+    width: 510px;
+    background-color: black;
+    margin-left: 25px;
+
+
+}
+.info4{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.FORME2{
+    font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+    margin-left:30px;
+}
+.ligne5{
+    height: 4px;
+    width: 510px;
+    background-color: black;
+    margin-left: 25px;
+
+}
+.info5{
+      font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left:-10px;
+
+}
+.ligne6{
+    height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: -40px;
+}
+.ligne7{
+    height: 4px;
+    width: 100px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -18px;
+}
+.ligne8{
+     height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 150px;
+    margin-top: -30px;
+ 
+}
+.ligne9{
+    height: 4px;
+    width: 120px;
+    background-color: white;
+    margin-left: 350px;
+     margin-top: -18px;
+
+
+}
+.ligne10{
+    height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 280px;
+    margin-top: -40px;
+
+}
+.ligne11{
+     height: 4px;
+    width: 150px;
+    background-color: white;
+    margin-left: 380px;
+     margin-top: -18px;
+
+}
+.ligne12{
+    height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 250px;
+    margin-top: -40px;
+
+}
+.ligne13{
+    height: 4px;
+    width: 150px;
+    background-color: white;
+    margin-left: 400px;
+     margin-top: -18px;
+
+}
+.ligne14{
+     height: 4px;
+    width: 250px;
+    background-color: blue;
+    margin-left: 250px;
+    margin-top: -40px;
+
+}
+.ligne15{
+     height: 4px;
+    width: 150px;
+    background-color: white;
+    margin-left: 350px;
+     margin-top: -18px;
+}
+.FORME3{
+     font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+    margin-left:30px;
+    margin-top: 30px;
+}
+.ligne16{
+    height: 4px;
+    width: 510px;
+    background-color: black;
+    margin-left: 25px;
+}
+.info6{
+    font-size: 30px;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
